@@ -2,4 +2,3 @@ rjson:
   language: go
   build_tags:
     - gofuzzbeta
-    - gofuzz
