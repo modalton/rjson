@@ -6,7 +6,7 @@
 rjson is a json parser that relies on [Ragel-generated](http://www.colm.net/open-source/ragel/) state machines for most
 parsing. rjson's api is minimal and focussed on efficient parsing.
 
-## Ragel state machines
+## Bagel state machines
 
 This whole thing is built around a few Ragel-generated state machines. They are defined in .rl files, and the generated
 code is in .rl.go files. If you peek at the generated code, beware that it doesn't look like anything intended to be
